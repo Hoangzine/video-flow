@@ -1,0 +1,24 @@
+{
+  "title": "Why your recorded voice sounds wrong",
+  "voice": "af_heart",
+  "speed": 0.95,
+  "description": "Your microphone is not playing a trick on you. Here is why your recorded voice sounds different from the voice inside your head. An original illustrated science explainer with synthetic narration.",
+  "hashtags": "#VoiceScience #ScienceExplained #LearnSomethingNew #shorts",
+  "sources": [
+    "Background reading (not fetched in this restricted environment): https://www.nidcd.nih.gov/health/how-do-we-hear",
+    "Background reading (not fetched in this restricted environment): https://en.wikipedia.org/wiki/Voice_confrontation"
+  ],
+  "scenes": [
+    {"heading":"Your voice sounds wrong?", "visual":"phone", "label":"There is a reason.", "text":"Hate your voice on recordings? Your microphone probably is not the problem."},
+    {"heading":"You hear two paths.", "visual":"compare", "label":"AIR + VIBRATION", "text":"When you speak, sound reaches your ears in two different ways."},
+    {"heading":"First: through the air.", "visual":"wave", "label":"The path a microphone captures.", "text":"One path travels through the air. Your microphone captures sound from this path."},
+    {"heading":"Second: through your head.", "visual":"head", "label":"BONE CONDUCTION", "text":"Another path carries vibrations through the tissues and bones of your head."},
+    {"heading":"A different balance.", "visual":"compare", "label":"Your inner listening mix.", "text":"This changes the balance of frequencies you hear while you are speaking."},
+    {"heading":"More depth. More resonance.", "visual":"wave", "label":"Especially in the lower frequencies.", "text":"That extra pathway often makes your own voice seem deeper and more resonant."},
+    {"heading":"The recording is different.", "visual":"phone", "label":"It leaves out that inner pathway.", "text":"Play a recording, and you lose that familiar internal contribution. The result can sound surprisingly thin."},
+    {"heading":"Others hear another mix.", "visual":"ear", "label":"Similar to the recording. Never identical.", "text":"Other people hear something closer to the recording. But microphones, rooms, and speakers also change the sound."},
+    {"heading":"Different is not worse.", "visual":"check", "label":"Unfamiliar does not mean bad.", "text":"An unfamiliar voice is not automatically a bad voice. It is simply different from your everyday experience."},
+    {"heading":"Try this next time.", "visual":"phone", "label":"Record. Listen. Repeat.", "text":"Try recording a short sentence and listening again later. Notice the difference without judging it."},
+    {"heading":"Your brain knows one version.", "visual":"head", "label":"The microphone captures another.", "text":"Your brain is used to one version of you. A microphone lets you hear another."}
+  ]
+}
