@@ -1,0 +1,21 @@
+{
+  "note": "Exact source files and sample copied from the cloud workspace; generated dependencies, models, uploads and logs excluded.",
+  "sha256": {
+    "PROMPT_VIET_KICH_BAN.txt": "8a1a1d5d312134e298d12eb466e863114552eb4193362732f3a1ad105dc67c3f",
+    "voice.py": "230db13dbb72ca7026f0aaddb1890dbf9f84042a4a1c8b473991f90d565bf579",
+    "start.sh": "59a30efde520d20482c4670da446715243ed586cdb762aede11fad84d457b955",
+    "requirements.txt": "f41bbf2afe8869f5d41dc1569fc2e69d83a2264849333fb39ac126f40d4e202d",
+    "render.py": "147bedc494ad3c037673d8ba2c1fb3b52763d3b1d9645c9939ea747b553d84c5",
+    "setup.py": "0f0efc48a30534f83dc4de17bd8182aeb68896028389b1aa79e0c20df9ccb40a",
+    "index.html": "ccb5652939d150957c1ee3ed6e3fe99872f92f9b2cb658d936d9b071a01c36d8",
+    "CHAY_STUDIO_WINDOWS.bat": "6d59827681cc14471155c49ddc981389c0bb8fa6d64d19948a92eb614da4146d",
+    "NGHIEN_CUU.md": "5b9cd00697b5805cf0d467dc36ca17ce03d20eb636f22fe97fd3ad40e1aaa7c4",
+    "server.py": "8eaff8bf5f675018f0abf0db377babff94f23284802d0c1bd77e626586b5de8b",
+    "BAT_DAU.md": "e42ef6a19a2e8b56eb46ba4ba512ed7625a3429e009548653280d88025bb1a39",
+    "projects/voice-science.json": "27cff0ef831876ef26e37065097cd754877e0c159a70cf34d342678a7776ea3b",
+    "licenses/kokoro-Apache-2.0.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "licenses/kokoro-onnx-MIT.txt": "f61fdd0217de9ece8fa699912848d91187d84879fc2e689f0906d0c1299e955e",
+    "licenses/README.md": "2371bc7d8382cbbc374b4e58f0c8186d104039d1fa731d3295bf38aa94fa6888",
+    "sample/video.mp4": "33e7a6fb6af4f22d5f7c0b8be1189c95c737d1abe969aba9163010756f4c4832"
+  }
+}

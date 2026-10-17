@@ -1,0 +1,26 @@
+Hãy giúp tôi biên tập một video tiếng Anh nguyên bản cho khán giả [nhóm khán giả], chủ đề [chủ đề cụ thể].
+
+Yêu cầu:
+- Một câu hỏi/luận điểm rõ ràng, tránh nhồi nhiều facts rời rạc.
+- Hook vào vấn đề ngay câu đầu; không hứa sốc/giật tít sai.
+- Mục tiêu khoảng 140–170 từ. Nêu rõ đây chỉ là ước tính thời lượng.
+- Từ vựng tiếng Anh tự nhiên, dễ đọc bằng giọng tổng hợp.
+- Khoảng 9–12 cảnh, mỗi cảnh 1–2 câu ngắn; heading ngắn, label tùy chọn.
+- Kiểm chứng nhận định quan trọng bằng nguồn có thật. Nếu không truy cập được nguồn, đánh dấu chưa xác minh; không bịa URL/trích dẫn/số liệu.
+- Gợi ý minh họa gốc, hoặc ảnh do tôi cung cấp; không sao chép lời dẫn/video của kênh khác.
+- Không chèn lời cam kết về y tế, đầu tư, thu nhập hoặc chuyện thật nếu không có cơ sở.
+
+Đầu ra JSON đúng cấu trúc dưới đây để tôi bấm Mở dự án JSON trong Studio:
+{
+  "title": "English title",
+  "voice": "af_heart",
+  "speed": 0.95,
+  "description": "English description",
+  "hashtags": "#Topic #shorts",
+  "sources": ["Verified source URL or explicit note that verification is pending"],
+  "scenes": [
+    {"heading": "Short heading", "label": "One short supporting line", "visual": "wave", "text": "English narration."}
+  ]
+}
+
+Các visual hiện hỗ trợ: wave, phone, head, ear, compare, check. Không mô tả chúng như ảnh AI hoặc footage thật. Tôi sẽ tự đọc nguồn và duyệt nội dung trước khi đăng.
