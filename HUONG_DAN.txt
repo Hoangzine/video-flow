@@ -1,0 +1,28 @@
+CÔNG CỤ TẠO GIỌNG ĐỌC MIỄN PHÍ (thay ElevenLabs)
+=================================================
+Mô hình: Kokoro-82M — giấy phép Apache-2.0, được dùng cho video kiếm tiền.
+Chạy hoàn toàn trên máy, không cần mạng, không tốn tiền.
+
+1) CHỌN GIỌNG
+   Mở thư mục "samples", nghe từng file .wav, chọn giọng thích nhất.
+   Các file "tron_..." là giọng trộn từ 2 giọng — ít kênh khác dùng trùng hơn.
+
+2) ĐẶT GIỌNG
+   Chuột phải "tao_giong.bat" -> Edit (hoặc mở bằng Notepad)
+   Sửa dòng:  set VOICE=af_heart     (thay bằng giọng bạn chọn)
+   Giọng trộn: set VOICE=am_michael:50,am_fenrir:50
+   Tốc độ:     set SPEED=0.95        (0.9 = chậm hơn, 1.0 = bình thường)
+
+3) TẠO GIỌNG CHO MỖI VIDEO
+   Kéo thả file kịch bản (script_xxx.txt Claude tạo ở Stage 2) vào "tao_giong.bat".
+   Khoảng 4 phút cho video 9 phút. Kết quả nằm cạnh file kịch bản:
+     ..._voice.wav        giọng đọc -> đưa vào CapCut
+     ..._timestamps.txt   mốc thời gian -> dán vào Claude ở Stage 3 (thay bước dùng web)
+     ..._timeline.json    dùng cho công cụ ghép video tự động
+     ....srt              phụ đề (không bắt buộc)
+
+4) NGHE LẠI MỘT LƯỢT
+   Tên riêng / từ lạ có thể đọc sai. Nếu sai: sửa cách viết trong kịch bản
+   (vd: viết tách âm "Blom-bos" thay cho "Blombos") rồi chạy lại.
+
+Thư mục "vi_du" có kết quả mẫu để xem trước.
